@@ -24,4 +24,4 @@
 
 ## Ссылка на GitHub Pages
 
-Проект доступен по ссылке: [GitHub Pages]()
+Проект доступен по ссылке: [GitHub Pages](https://x-xom.github.io/travel_around_russia/)
