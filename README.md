@@ -24,4 +24,4 @@
 
 ## Ссылка на GitHub Pages
 
-Проект доступен по ссылке: [GitHub Pages](https://tamiris15.github.io/russian-travel-master/)
+Проект доступен по ссылке: [GitHub Pages]()
